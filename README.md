@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm kishan panchal</h1>
-<h3 align="center">THE CODER</h3>
+<h3 align="center">THE SCRIPT-CRAFTER✨🖥️</h3>
 
-- 🔭 I’m currently working on **Techx website developement project**
 
-- 🌱 I’m currently learning **Java script and all frameworks of Js**
+- 🌱 I’m currently learning **MERN STACK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
