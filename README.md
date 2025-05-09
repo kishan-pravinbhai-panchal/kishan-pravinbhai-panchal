@@ -2,7 +2,8 @@
 <h3 align="center">THE SCRIPT-CRAFTER✨🖥️</h3>
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning and building projects with **HTML, CSS, JavaScript, React, SQL (SSMS), .NET Web API, and C#**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
